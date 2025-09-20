@@ -6,19 +6,13 @@ Motivated Mechatronics Engineering student on a prestigious scholarship, passion
 
 ## Skills & Tools
 
-Robotics • Control • Electronics
-
-Mechanical Design • CNC Programming • CNC Machining
-
-Machine Learning • Deep Learning • Computer Vision
-
-OOP • Data Structures & Algorithms
-
-ROS / ROS2 • C/C++ • Python
-
-MATLAB & Simulink • Gazebo • SolidWorks
-
-PowerMILL
+- Robotics             • Control             • Electronics  
+- Mechanical Design    • CNC Programming     • CNC Machining  
+- Machine Learning     • Deep Learning       • Computer Vision  
+- OOP                  • Data Structures     • Algorithms  
+- ROS / ROS2           • C/C++               • Python  
+- MATLAB & Simulink    • Gazebo              • SolidWorks  
+- PowerMILL
 
 ---
 
