@@ -1,7 +1,6 @@
 # Ahmed Abdelghany
 
-🎓 Mechatronics Engineering Student | Robotics, Automation & AI Enthusiast  
-💡 Passionate about building **innovative solutions in robotics, CNC, and AI systems**.  
+Motivated Mechatronics Engineering student on a prestigious scholarship, passionate about robotics, automation, and emerging technologies. Experienced in applying engineering principles to real-world projects, with a strong academic foundation in design, analysis, and system integration. Recognized for problem-solving, teamwork, and leadership abilities, with a commitment to continuous learning and contributing to innovative solutions in robotics and smart systems.
 
 ---
 
