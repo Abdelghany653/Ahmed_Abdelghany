@@ -6,11 +6,11 @@
 ---
 
 ## **Skills**
-- **Robotics & Automation:** ROS / ROS2, Webots Simulation, PLC systems  
-- **Mechanical & CNC:** SolidWorks (3D Modeling, Assembly, Drawings), PowerMILL, CNC Programming & Machining  
-- **Programming & AI:** Python, C/C++, MATLAB & Simulink, Machine Learning, Deep Learning, Computer Vision, OOP & Data Structures  
-- **Embedded Systems:** Arduino, ESP32, Sensors (IMU, Gyroscope, LiDAR, Cameras)  
-- **Soft Skills:** Teamwork, Leadership, Problem Solving, Project Management  
+• Robotics    • Control   • Electronics     • Mechanical Design      • CNC Programming  • CNC Machining
+• Machine learning   • Deep Learning  • Computer Vision • Object-Oriented Programming  
+• Data Structures & Algorithms 
+• ROS /ROS2   • C/C++  •Python   • MATLAB & Simulink   •  Gazebo • SolidWorks  • PowerMILL  
+
 
 ---
 
