@@ -2,7 +2,7 @@
 
 Motivated Mechatronics Engineering student on a prestigious scholarship, passionate about robotics, automation, and emerging technologies. Experienced in applying engineering principles to real-world projects, with a strong academic foundation in design, analysis, and system integration. Recognized for problem-solving, teamwork, and leadership abilities, with a commitment to continuous learning and contributing to innovative solutions in robotics and smart systems.
 
----
+
 
 ## **Experience**
 **CNC Engineer | Master Company | 6th of October City, Cairo, Egypt**  
@@ -16,7 +16,7 @@ Motivated Mechatronics Engineering student on a prestigious scholarship, passion
 - Responsible for **designing and developing precision 3D mechanical models using SolidWorks**, and programming and optimizing CNC machining processes with PowerMILL to improve efficiency, reduce material waste, and maintain strict quality standards.  
 - Developed **different mold types tailored to diverse applications**, ensuring high accuracy, efficiency, and product quality across the main production line.  
 
----
+
 
 ## **Projects**
 ### Mobile Robot Simulation in Dynamic Environment
