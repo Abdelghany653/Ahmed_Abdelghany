@@ -34,6 +34,7 @@ Motivated Mechatronics Engineering student on a prestigious scholarship, passion
 ### CNC Injection Mold Design & Machining Simulation
 [cnc_molds](https://github.com/Abdelghany653/cnc_molds)
 
+---
 
 ## Skills & Tools
 
