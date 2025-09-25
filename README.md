@@ -34,7 +34,7 @@ Motivated Mechatronics Engineering student on a prestigious scholarship, passion
 ### CNC Injection Mold Design & Machining Simulation
 [cnc_molds](https://github.com/Abdelghany653/cnc_molds)
 
----
+
 
 ## Skills & Tools
 
@@ -46,7 +46,7 @@ Motivated Mechatronics Engineering student on a prestigious scholarship, passion
 - `MATLAB & Simulink`   • `Gazebo`             • `SolidWorks`
 - `PowerMILL`
 
----
+
 
 ## **Education**
 **BSc Mechatronics Engineering** | Misr University of Science & Technology  
@@ -55,7 +55,7 @@ Motivated Mechatronics Engineering student on a prestigious scholarship, passion
 **Artificial Intelligence** | Digital Egypt Pioneers Initiative (DEPI)  
 *Jun 2025 – Dec 2025*  
 
----
+
 
 ## **Contact**
 - **Email:** am7513779@gmail.com  
