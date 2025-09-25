@@ -22,6 +22,9 @@ Motivated Mechatronics Engineering student on a prestigious scholarship, passion
 ### Mobile_Robot_Simulation_in_Dynamic_Environment
 [Mobile_Robot_Simulation_in_Dynamic_Environment](https://github.com/Abdelghany653/Mobile_Robot_Simulation_in_Dynamic_Environment)
 
+### real-time_image_processing_project
+[real-time_image_processing_project](https://github.com/Abdelghany653/real-time_image_processing_project)
+
 ### CNC Injection Mold Design & Machining Simulation
 [cnc_molds](https://github.com/Abdelghany653/cnc_molds)
 
@@ -29,7 +32,7 @@ Motivated Mechatronics Engineering student on a prestigious scholarship, passion
 [cnc_molds](https://github.com/Abdelghany653/cnc_molds)
 ### Gripper for robot arm
 [cnc_molds](https://github.com/Abdelghany653/cnc_molds)
-### 
+
 
 ## Skills & Tools
 
