@@ -4,26 +4,6 @@ Motivated Mechatronics Engineering student on a prestigious scholarship, passion
 
 ---
 
-## Skills & Tools
-
-- `Robotics`            • `Control`            • `Electronics`
-- `Mechanical Design`   • `CNC Programming`    • `CNC Machining`
-- `Machine Learning`    • `Deep Learning`      • `Computer Vision`
-- `OOP`                 • `Data Structures`    • `Algorithms`
-- `ROS / ROS2`          • `C/C++`              • `Python`
-- `MATLAB & Simulink`   • `Gazebo`             • `SolidWorks`
-- `PowerMILL`
-
----
-
-## **Projects**
-### CNC Injection Mold Design & Machining Simulation
-- Designed and simulated **precision injection molds** for plastic packaging (fruits & vegetables).  
-- Tools: SolidWorks, PowerMILL.  
-- [GitHub Repository](#)  
-
----
-
 ## **Experience**
 **CNC Engineer | Master Company | 6th of October City, Cairo, Egypt**  
 *Jan 2025 – Present*  
@@ -35,6 +15,23 @@ Motivated Mechatronics Engineering student on a prestigious scholarship, passion
 - Worked at MZ company, specializing in the **design and manufacture of injection molds** for plastic packaging containers for fruits and vegetables, mounted on production machines.  
 - Responsible for **designing and developing precision 3D mechanical models using SolidWorks**, and programming and optimizing CNC machining processes with PowerMILL to improve efficiency, reduce material waste, and maintain strict quality standards.  
 - Developed **different mold types tailored to diverse applications**, ensuring high accuracy, efficiency, and product quality across the main production line.  
+
+---
+
+## **Projects**
+### CNC Injection Mold Design & Machining Simulation
+- Designed and simulated **precision injection molds** for plastic packaging (fruits & vegetables).  
+- Tools: SolidWorks, PowerMILL.  
+- [GitHub Repository](#)  
+## Skills & Tools
+
+- `Robotics`            • `Control`            • `Electronics`
+- `Mechanical Design`   • `CNC Programming`    • `CNC Machining`
+- `Machine Learning`    • `Deep Learning`      • `Computer Vision`
+- `OOP`                 • `Data Structures`    • `Algorithms`
+- `ROS / ROS2`          • `C/C++`              • `Python`
+- `MATLAB & Simulink`   • `Gazebo`             • `SolidWorks`
+- `PowerMILL`
 
 ---
 
