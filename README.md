@@ -20,9 +20,14 @@ Motivated Mechatronics Engineering student on a prestigious scholarship, passion
 
 ## **Projects**
 ### CNC Injection Mold Design & Machining Simulation
-- Designed and simulated **precision injection molds** for plastic packaging (fruits & vegetables).  
-- Tools: SolidWorks, PowerMILL.  
-- [GitHub Repository](#)  
+[cnc_molds](https://github.com/Abdelghany653/cnc_molds)
+
+### Modeling and Simulation for DC motor
+
+### Gripper for robot arm
+
+### 
+
 ## Skills & Tools
 
 - `Robotics`            • `Control`            • `Electronics`
