@@ -31,7 +31,7 @@ Motivated Mechatronics Engineering student on a prestigious scholarship, passion
 ### Modeling and Simulation for DC motor
 [cnc_molds](https://github.com/Abdelghany653/cnc_molds)
 ### Gripper for robot arm
-[cnc_molds](https://github.com/Abdelghany653/cnc_molds)
+[Gripper](https://github.com/Abdelghany653/Gripper)
 
 
 ## Skills & Tools
